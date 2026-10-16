@@ -1,0 +1,10 @@
+streamlit
+openai-whisper
+groq
+edge-tts
+imageio-ffmpeg
+mutagen
+nudenet
+onnxruntime
+opencv-python-headless
+torch
